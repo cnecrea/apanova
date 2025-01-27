@@ -2,7 +2,7 @@
 
 from homeassistant.config_entries import ConfigEntry
 from homeassistant.core import HomeAssistant
-from homeassistant.helpers.aiohttp_client import async_get_clientsession
+from homeassistant.helpers import config_validation as cv
 
 from .const import DOMAIN, LOGGER, CONF_CITY, CONF_EMAIL, CONF_PASSWORD, CONF_COD_CLIENT, CONF_UPDATE_INTERVAL
 from .coordinator import ApanovaCoordinator
