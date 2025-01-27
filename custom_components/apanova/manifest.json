@@ -1,0 +1,12 @@
+{
+    "domain": "apanova",
+    "name": "Apanova România",
+    "codeowners": ["@cnecrea"],
+    "config_flow": true,
+    "dependencies": [],
+    "documentation": "https://github.com/cnecrea/apanova",
+    "iot_class": "cloud_polling",
+    "issue_tracker": "https://github.com/cnecrea/apanova/issues",
+    "requirements": [],
+    "version": "1.0.0"
+}
