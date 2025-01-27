@@ -1,0 +1,35 @@
+    {
+        "config": {
+        "step": {
+            "user": {
+            "title": "Configurare pentru Apanova România",
+            "description": "Selectați locația și introduceți contului pentru autentificare.",
+            "data": {
+                "city": "Selectați orașul pentru care doriți să utilizați Apanova România",
+                "email": "Adresă de e-mail",
+                "password": "Parola",
+                "cod_client": "Cod client",
+                "update_interval": "Interval de actualizare (minute)"
+            }
+            }
+        },
+        "error": {
+            "connection_failed": "Conexiunea la server a eșuat. Verificați datele introduse.",
+            "city_invalid": "Filiala selectată nu este validă."
+        }
+        },
+        "options": {
+        "step": {
+            "init": {
+            "title": "Modificați opțiunile pentru Apanova România",
+            "description": "Ajustați intervalul de actualizare.",
+            "data": {
+                "update_interval": "Interval de actualizare (minute)"
+            }
+            }
+        },
+        "error": {
+            "interval_too_low": "Intervalul de actualizare este prea mic."
+        }
+        }
+    }
