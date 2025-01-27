@@ -1,6 +1,6 @@
 name: Feedback
 description: Oferiți feedback despre integrarea Apanova România sau sugerați îmbunătățiri.
-title: "Titlul propunerii sau al observației dvs."
+title: 
 labels:
   - îmbunătățire
 body:
