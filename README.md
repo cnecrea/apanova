@@ -29,7 +29,7 @@ Momentan, nu a fost testată corespunzător și **poate cauza probleme** în uti
 ### ℹ️ Recomandări:
 Dacă dorești să contribui la dezvoltare și testare:
 - Urmărește progresul pe [GitHub](https://github.com/cnecrea/apanova).
-- Raportează problemele întâlnite sau trimite sugestii. 🙌
+- Trimite sugestii. 🙌
 
 ---
 
