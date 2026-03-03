@@ -1,0 +1,19 @@
+{
+  "generat_la": "2026-03-03T08:44:17.030Z",
+  "top": [
+    {
+      "tag": "1.0.0",
+      "nume": "1.0.0",
+      "prerelease": false,
+      "publicat_la": "2025-02-06T22:47:43Z",
+      "descarcari": 3,
+      "assets": [
+        {
+          "nume": "apanova.zip",
+          "descarcari": 3,
+          "url": "https://github.com/cnecrea/apanova/releases/download/1.0.0/apanova.zip"
+        }
+      ]
+    }
+  ]
+}
