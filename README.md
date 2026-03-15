@@ -3,7 +3,6 @@
 # Apanova România - Integrare pentru Home Assistant 🏠🇷🇴
 [![HACS Custom](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
 [![GitHub Release](https://img.shields.io/github/v/release/cnecrea/apanova)](https://github.com/cnecrea/apanova/releases)
-![Total descărcări pentru toate versiunile](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/cnecrea/apanova/main/statistici/shields/descarcari.json)
 
 
 Această integrare permite monitorizarea detaliată a datelor contractuale disponibile pentru utilizatorii Apanova România (București/Ploiești). Se configurează ușor prin interfața grafică și oferă afișarea completă a informațiilor din contul de utilizator.
